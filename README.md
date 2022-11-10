@@ -45,4 +45,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Link
 
-[Lendsqr Frontend Test](https://ismail-adeoye-lendsqr-fe-test.herokuapp.com/)
+[Lendsqr Frontend Test](https://ismail-adeoye-lendsqr-fe-test.vercel.app/)
