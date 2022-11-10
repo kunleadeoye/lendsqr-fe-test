@@ -63,7 +63,7 @@ const Navigation = () => {
                         fontWeight: 500
                       }}
                     >
-                      Adédèjì Ọlọ́wẹ̀
+                      Kunle Adeoye
                     </h6>
                     <h6
                       style={{
@@ -71,7 +71,7 @@ const Navigation = () => {
                         overflowWrap: 'anywhere'
                       }}
                     >
-                      adedejiolowe@gmail.com
+                      zenesoftinc@gmail.com
                     </h6>
                   </div>
                 </div>
@@ -108,7 +108,7 @@ const Navigation = () => {
         >
           <div className="navigation__profile">
             <img src={AvatarSM} className="navigation__avatar" alt="Avatar" />
-            <h5 className="navigation__username">Adedeji</h5>
+            <h5 className="navigation__username">Adekunle</h5>
             <button className="navigation__profile__button">
               <i className="fa fa-caret-down" aria-hidden="true" />
             </button>
