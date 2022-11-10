@@ -45,4 +45,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Link
 
-[Lendsqr](https://ismail-adeoye-adekunle-fe-test.herokuapp.com/)
+[Lendsqr Test](https://ismail-adeoye-lendsqr-fe-test.herokuapp.com/)
