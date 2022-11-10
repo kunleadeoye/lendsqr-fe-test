@@ -38,10 +38,10 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 - [Create React App](https://github.com/facebook/create-react-app).
 - [Axios](https://axios-http.com/docs/intro)
 - [React Query](https://tanstack.com/query/v4/docs/overview)
-- [Ant Design](https://ant.design/docs/react/introduce)
 - [Typescript](https://www.typescriptlang.org/)
+- [Ant Design](https://ant.design/docs/react/introduce)
+- [Heroku](https://heroku.com/)
 - [SCSS](https://www.typescriptlang.org/)
-- [Vercel](https://vercel.com/)
 
 ## Link
 
